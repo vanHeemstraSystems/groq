@@ -1,6 +1,8 @@
 groq
 # Groq
 
+Based on "Getting Started with Groq API | Making Near Real Time Chatting with LLMs Possible" at https://www.youtube.com/watch?v=S53BanCP14c
+
 Based on "Fabric: The Best AI Tool That Nobody is Talking About" at https://youtu.be/2fj2R6vK6O0?t=758
 
 ## 100 - Introduction
