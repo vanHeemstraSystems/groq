@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+groq
+# Groq
 
-Based on "ABC" at https://www.abc.com/
+Based on "Fabric: The Best AI Tool That Nobody is Talking About" at https://youtu.be/2fj2R6vK6O0?t=758
 
 ## 100 - Introduction
 
